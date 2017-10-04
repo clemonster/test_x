@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# load packages\n\nlibrary(dplyr)\nlibrary(ggplot2)\nlibrary(dygraphs)\n",
+    "created" : 1507120195554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2628049617",
+    "id" : "BB680B0C",
+    "lastKnownWriteTime" : 1507120510,
+    "last_content_update" : 1507120510770,
+    "path" : "C:/Users/Clément/Desktop/Important/HEC/X Big Data/R/X_2017/X_2017/Jour 3/test_x/my_viz_script.R",
+    "project_path" : "my_viz_script.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
